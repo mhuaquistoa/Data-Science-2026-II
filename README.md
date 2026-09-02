@@ -5,4 +5,4 @@ This is a course in data science
 1.Enzo Nevado 
 2.Franco Solis
 3.Luz Ruiz
-4. Britney Miranda
+4.Britney Miranda
