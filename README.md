@@ -15,3 +15,6 @@ Se va al apartado de files, en esa parte se encuentra una zona para añadir bran
 
 # Recomendaciones
 El único commit que se debe realizar en el main branch es al crear el repositorio, todos los siguientes cambios deben generarse en branches paralelos, ya que puede generar problemas al momento de querer hacer un merge entre main branch y uno paralelo. AL crear un branch paralelo, se duplica el repositorio con el contenido que se encuentra al momento de duplicarlo, por ello, si se realiza cambios en el main branch después de la duplica, el branch paralelo no contendrá con esa información
+
+# Para comunicar la web con la app local 
+Se va al apartado de code y se elige la opción de abrir con GitHub Desktop
