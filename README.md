@@ -18,3 +18,12 @@ El único commit que se debe realizar en el main branch es al crear el repositor
 
 # Para comunicar la web con la app local 
 Se va al apartado de code y se elige la opción de abrir con GitHub Desktop
+
+# Countries
+1. Perú 
+2. Colombia
+3. Costa Rica 
+4. Brasil
+5. Chile
+6. Ururguay
+7. Ecuador
