@@ -26,3 +26,4 @@ Se va al apartado de code y se elige la opción de abrir con GitHub Desktop
 4. Brasil
 5. Chile
 6. Ururguay
+7. Ecuador
